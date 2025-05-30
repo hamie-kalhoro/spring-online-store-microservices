@@ -23,7 +23,6 @@ This repository is composed of multiple microservices and core components:
 
 - **Spring Boot**
 - **Spring Cloud (Eureka, Gateway)**
-- **Spring Cloud (Eureka, Gateway)**
 - **Security (OAuth2 with Keycloak)**
 - **Resilience4J Circuit Breaker**
 - **Distributed Tracing (Zipkin)**
