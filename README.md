@@ -23,7 +23,11 @@ This repository is composed of multiple microservices and core components:
 
 - **Spring Boot**
 - **Spring Cloud (Eureka, Gateway)**
-- **Docker / Docker Compose**
+- **Spring Cloud (Eureka, Gateway)**
+- **Security (OAuth2 with Keycloak)**
+- **Resilience4J Circuit Breaker**
+- **Distributed Tracing (Zipkin)**
+- **Event-Driven Architecture using Kafka**
 - **Maven**
 - **Java 17**
 - **RESTful APIs**
@@ -47,7 +51,3 @@ This repository is composed of multiple microservices and core components:
 ```bash
 git clone https://github.com/hamie-kalhoro/spring-online-store-microservices.git
 cd spring-online-store-microservices
-
----
-
-Let me know if you'd like the architecture diagram as an actual image or wish to generate service-specific documentation!
